@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Book List</title>
+</head>
+<body>
+  {% for book in books %}
+      <li><a href="{% url 'new_app:book_details' book.pk %}">book{{ book.pk }}</a></li>
+{% endfor %}
+</body>
+</html>
