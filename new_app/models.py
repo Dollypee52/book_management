@@ -1,15 +1,27 @@
+from django.contrib.auth.models import AbstractUser
 from django.db import models
 
 
 # Create your models here.
+class User(AbstractUser):
+    email = models.EmailField(unique=True)
+    USERNAME_FIELD = 'email'
+    REQUIRED_FIELDS = ['username']
+
+
+class Profile(models.Model):
+    date_of_birth = models.DateField()
+    user = models.OneToOneField(User, on_delete=models.CASCADE)
+    pass
+
 
 class Publisher(models.Model):
-    name = models.CharField(max_length=255)
+    title = models.CharField(max_length=255)
     email = models.EmailField(unique=True)
     url = models.URLField()
 
     def __str__(self):
-        return self.name
+        return self.title
 
 
 class Book(models.Model):

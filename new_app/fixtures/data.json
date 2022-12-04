@@ -1,0 +1,1392 @@
+[
+{
+    "model": "new_app.book",
+    "pk": 1,
+    "fields": {
+        "title": "MoonWalker",
+        "description": "ultrices aliquet maecenas leo odio condimentum id luctus nec molestie sed justo pellentesque viverra pede",
+        "date_published": "2022-05-13",
+        "isbn": "861016651-1",
+        "price": "57641.72",
+        "genre": " ROMANCE",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 2,
+    "fields": {
+        "title": "Ink",
+        "description": "et eros vestibulum ac est lacinia nisi venenatis tristique fusce congue diam id ornare",
+        "date_published": "2021-11-14",
+        "isbn": "508035548-4",
+        "price": "33418.19",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 3,
+    "fields": {
+        "title": "Vampires, Les",
+        "description": "tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis",
+        "date_published": "2022-09-11",
+        "isbn": "983588754-3",
+        "price": "48577.63",
+        "genre": " FICTION ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 4,
+    "fields": {
+        "title": "Americanization of Emily, The",
+        "description": "primis in faucibus orci luctus et ultrices posuere cubilia curae donec pharetra",
+        "date_published": "2022-08-27",
+        "isbn": "869849368-8",
+        "price": "14716.03",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 5,
+    "fields": {
+        "title": "When a Stranger Calls",
+        "description": "magna vestibulum aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien sapien non mi integer ac",
+        "date_published": "2022-08-15",
+        "isbn": "335456522-5",
+        "price": "77068.73",
+        "genre": " ROMANCE",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 6,
+    "fields": {
+        "title": "To Be or Not to Be",
+        "description": "a ipsum integer a nibh in quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+        "date_published": "2022-07-30",
+        "isbn": "002158936-4",
+        "price": "35725.52",
+        "genre": " ROMANCE",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 7,
+    "fields": {
+        "title": "Study in Choreography for Camera, A",
+        "description": "aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in",
+        "date_published": "2022-08-30",
+        "isbn": "964353238-0",
+        "price": "67202.54",
+        "genre": " TRAGEDY ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 8,
+    "fields": {
+        "title": "Blankman",
+        "description": "nascetur ridiculus mus vivamus vestibulum sagittis sapien cum sociis natoque penatibus et",
+        "date_published": "2021-10-11",
+        "isbn": "146664388-9",
+        "price": "28244.67",
+        "genre": " NON-FICTION ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 9,
+    "fields": {
+        "title": "Oceans (Océans)",
+        "description": "diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam",
+        "date_published": "2022-09-06",
+        "isbn": "541465808-0",
+        "price": "38532.48",
+        "genre": " NON-FICTION ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 10,
+    "fields": {
+        "title": "One-Eyed Jacks",
+        "description": "est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum justo",
+        "date_published": "2022-07-08",
+        "isbn": "199568606-9",
+        "price": "74922.86",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 11,
+    "fields": {
+        "title": "Dawn of the Dead",
+        "description": "odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor morbi vel lectus",
+        "date_published": "2022-07-12",
+        "isbn": "185344862-1",
+        "price": "70182.15",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 12,
+    "fields": {
+        "title": "Alice",
+        "description": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus",
+        "date_published": "2022-07-26",
+        "isbn": "068881833-1",
+        "price": "76418.57",
+        "genre": " NON-FICTION ",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 13,
+    "fields": {
+        "title": "A Kind of America 2",
+        "description": "justo sollicitudin ut suscipit a feugiat et eros vestibulum ac",
+        "date_published": "2022-01-06",
+        "isbn": "309626059-1",
+        "price": "70402.80",
+        "genre": "COMEDY ",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 14,
+    "fields": {
+        "title": "Necessities of Life, The (Ce qu'il faut pour vivre)",
+        "description": "congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede",
+        "date_published": "2021-11-09",
+        "isbn": "712862809-6",
+        "price": "44125.50",
+        "genre": " TRAGEDY ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 15,
+    "fields": {
+        "title": "Return of Dracula, The",
+        "description": "tristique est et tempus semper est quam pharetra magna ac consequat metus sapien",
+        "date_published": "2021-09-23",
+        "isbn": "385519617-6",
+        "price": "89953.90",
+        "genre": " ROMANCE",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 16,
+    "fields": {
+        "title": "Tu£sday",
+        "description": "proin interdum mauris non ligula pellentesque ultrices phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit",
+        "date_published": "2021-09-21",
+        "isbn": "839042215-8",
+        "price": "87824.00",
+        "genre": " NON-FICTION ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 17,
+    "fields": {
+        "title": "Legalese",
+        "description": "eu tincidunt in leo maecenas pulvinar lobortis est phasellus sit amet erat nulla tempus vivamus in felis eu sapien",
+        "date_published": "2021-09-26",
+        "isbn": "924554341-2",
+        "price": "49229.96",
+        "genre": " TRAGEDY ",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 18,
+    "fields": {
+        "title": "Bronson",
+        "description": "orci nullam molestie nibh in lectus pellentesque at nulla suspendisse potenti cras",
+        "date_published": "2022-05-10",
+        "isbn": "741736653-8",
+        "price": "54854.39",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 19,
+    "fields": {
+        "title": "Liberal Arts",
+        "description": "etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut",
+        "date_published": "2021-11-28",
+        "isbn": "892256791-0",
+        "price": "76623.97",
+        "genre": " TRAGEDY ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 20,
+    "fields": {
+        "title": "Nurse Betty",
+        "description": "aliquet pulvinar sed nisl nunc rhoncus dui vel sem sed sagittis",
+        "date_published": "2021-12-31",
+        "isbn": "105693697-5",
+        "price": "91121.80",
+        "genre": " ROMANCE",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 21,
+    "fields": {
+        "title": "Ecstasy in Entropy",
+        "description": "nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue",
+        "date_published": "2021-12-09",
+        "isbn": "377668448-8",
+        "price": "40096.38",
+        "genre": " TRAGEDY ",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 22,
+    "fields": {
+        "title": "Killjoy",
+        "description": "varius ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus",
+        "date_published": "2022-08-16",
+        "isbn": "256564246-6",
+        "price": "36906.56",
+        "genre": " ROMANCE",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 23,
+    "fields": {
+        "title": "Cat's Eye",
+        "description": "sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer",
+        "date_published": "2022-08-24",
+        "isbn": "007654264-5",
+        "price": "1128.24",
+        "genre": " ROMANCE",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 24,
+    "fields": {
+        "title": "Fellini: I'm a Born Liar (Fellini: Je Suis um Grand Menteur)",
+        "description": "in sagittis dui vel nisl duis ac nibh fusce lacus purus",
+        "date_published": "2022-07-11",
+        "isbn": "231135541-4",
+        "price": "20728.04",
+        "genre": " NON-FICTION ",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 25,
+    "fields": {
+        "title": "New Orleans Uncensored",
+        "description": "sapien quis libero nullam sit amet turpis elementum ligula vehicula consequat morbi a ipsum integer",
+        "date_published": "2022-08-21",
+        "isbn": "455511373-X",
+        "price": "63199.61",
+        "genre": " NON-FICTION ",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 26,
+    "fields": {
+        "title": "9 Souls (Nain souruzu)",
+        "description": "sit amet turpis elementum ligula vehicula consequat morbi a ipsum",
+        "date_published": "2022-03-18",
+        "isbn": "163874668-0",
+        "price": "4609.92",
+        "genre": "COMEDY ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 27,
+    "fields": {
+        "title": "Onionhead",
+        "description": "congue risus semper porta volutpat quam pede lobortis ligula sit amet eleifend pede libero quis orci nullam molestie",
+        "date_published": "2021-12-03",
+        "isbn": "475587807-1",
+        "price": "51280.31",
+        "genre": " NON-FICTION ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 28,
+    "fields": {
+        "title": "Batman: The Dark Knight Returns, Part 1",
+        "description": "curabitur in libero ut massa volutpat convallis morbi odio odio elementum eu interdum eu tincidunt in leo maecenas pulvinar lobortis",
+        "date_published": "2022-08-31",
+        "isbn": "752115900-4",
+        "price": "91077.67",
+        "genre": " NON-FICTION ",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 29,
+    "fields": {
+        "title": "Damned the Day I Met You",
+        "description": "id pretium iaculis diam erat fermentum justo nec condimentum neque sapien placerat ante nulla justo aliquam quis turpis eget elit",
+        "date_published": "2022-03-08",
+        "isbn": "957568320-X",
+        "price": "30876.63",
+        "genre": " ROMANCE",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 30,
+    "fields": {
+        "title": "Moustache, La",
+        "description": "pede ullamcorper augue a suscipit nulla elit ac nulla sed vel enim sit",
+        "date_published": "2021-12-02",
+        "isbn": "218577699-1",
+        "price": "96821.19",
+        "genre": "COMEDY ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 31,
+    "fields": {
+        "title": "Lake, A (Un lac)",
+        "description": "velit id pretium iaculis diam erat fermentum justo nec condimentum neque sapien",
+        "date_published": "2021-10-15",
+        "isbn": "613404424-5",
+        "price": "11713.50",
+        "genre": " ROMANCE",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 32,
+    "fields": {
+        "title": "Gunner Palace",
+        "description": "sodales scelerisque mauris sit amet eros suspendisse accumsan tortor quis turpis sed ante vivamus tortor duis",
+        "date_published": "2022-02-28",
+        "isbn": "196778982-7",
+        "price": "80177.22",
+        "genre": " NON-FICTION ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 33,
+    "fields": {
+        "title": "Fly Away (Bis zum Horizont, dann links!)",
+        "description": "dui luctus rutrum nulla tellus in sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
+        "date_published": "2022-09-07",
+        "isbn": "190289475-8",
+        "price": "56511.75",
+        "genre": " ROMANCE",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 34,
+    "fields": {
+        "title": "Monsieur Verdoux",
+        "description": "in blandit ultrices enim lorem ipsum dolor sit amet consectetuer adipiscing elit proin interdum mauris non ligula pellentesque ultrices phasellus",
+        "date_published": "2021-10-29",
+        "isbn": "298546455-2",
+        "price": "13972.42",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 35,
+    "fields": {
+        "title": "Gainsbourg (Vie Héroïque)",
+        "description": "ac neque duis bibendum morbi non quam nec dui luctus",
+        "date_published": "2021-10-24",
+        "isbn": "576799343-2",
+        "price": "63359.12",
+        "genre": " FICTION ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 36,
+    "fields": {
+        "title": "X: The Man with the X-Ray Eyes",
+        "description": "rhoncus sed vestibulum sit amet cursus id turpis integer aliquet massa id lobortis convallis tortor risus",
+        "date_published": "2022-07-07",
+        "isbn": "411170084-5",
+        "price": "72759.71",
+        "genre": " ROMANCE",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 37,
+    "fields": {
+        "title": "Until September",
+        "description": "venenatis tristique fusce congue diam id ornare imperdiet sapien urna pretium nisl ut volutpat sapien arcu sed augue",
+        "date_published": "2022-08-10",
+        "isbn": "575859527-6",
+        "price": "99880.54",
+        "genre": " FICTION ",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 38,
+    "fields": {
+        "title": "Harem suare",
+        "description": "enim sit amet nunc viverra dapibus nulla suscipit ligula in lacus",
+        "date_published": "2022-09-11",
+        "isbn": "833864612-1",
+        "price": "86942.20",
+        "genre": " TRAGEDY ",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 39,
+    "fields": {
+        "title": "Starving Games, The",
+        "description": "aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend quam a odio",
+        "date_published": "2022-01-02",
+        "isbn": "631224320-6",
+        "price": "51217.68",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 40,
+    "fields": {
+        "title": "Andromeda Strain, The",
+        "description": "consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et",
+        "date_published": "2022-05-23",
+        "isbn": "603804784-0",
+        "price": "28068.28",
+        "genre": " TRAGEDY ",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 41,
+    "fields": {
+        "title": "Low Down, The",
+        "description": "quam sapien varius ut blandit non interdum in ante vestibulum",
+        "date_published": "2021-12-11",
+        "isbn": "811164995-9",
+        "price": "83141.59",
+        "genre": " ROMANCE",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 42,
+    "fields": {
+        "title": "Illusion Travels by Streetcar (Ilusión viaja en tranvía, La)",
+        "description": "convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo sit amet sapien dignissim vestibulum",
+        "date_published": "2021-09-26",
+        "isbn": "639055202-5",
+        "price": "79346.89",
+        "genre": " ROMANCE",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 43,
+    "fields": {
+        "title": "Very Bad Things",
+        "description": "sed tincidunt eu felis fusce posuere felis sed lacus morbi sem",
+        "date_published": "2022-07-30",
+        "isbn": "728498925-4",
+        "price": "57939.29",
+        "genre": " FICTION ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 44,
+    "fields": {
+        "title": "High School Confidential!",
+        "description": "ante vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur",
+        "date_published": "2022-01-02",
+        "isbn": "697355441-5",
+        "price": "15764.56",
+        "genre": " ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 45,
+    "fields": {
+        "title": "Hearts and Minds",
+        "description": "at dolor quis odio consequat varius integer ac leo pellentesque ultrices mattis odio donec vitae nisi nam ultrices libero",
+        "date_published": "2021-10-10",
+        "isbn": "139574808-X",
+        "price": "10305.52",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 46,
+    "fields": {
+        "title": "47  Ronin (Shijûshichinin no shikaku)",
+        "description": "adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam convallis nunc proin at",
+        "date_published": "2022-06-27",
+        "isbn": "653737045-0",
+        "price": "80151.10",
+        "genre": " ROMANCE",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 47,
+    "fields": {
+        "title": "Haiku Tunnel",
+        "description": "pretium nisl ut volutpat sapien arcu sed augue aliquam erat volutpat",
+        "date_published": "2021-11-24",
+        "isbn": "718827692-7",
+        "price": "18445.09",
+        "genre": " NON-FICTION ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 48,
+    "fields": {
+        "title": "Adventures of a Dentist",
+        "description": "pede posuere nonummy integer non velit donec diam neque vestibulum eget vulputate ut",
+        "date_published": "2022-08-07",
+        "isbn": "760831314-5",
+        "price": "91624.91",
+        "genre": " ROMANCE",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 49,
+    "fields": {
+        "title": "Secret Reunion (Ui-hyeong-je)",
+        "description": "ut blandit non interdum in ante vestibulum ante ipsum primis in faucibus orci luctus et",
+        "date_published": "2021-12-22",
+        "isbn": "093336433-4",
+        "price": "98849.58",
+        "genre": " ROMANCE",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 50,
+    "fields": {
+        "title": "Cold Prey III (Fritt Vilt III)",
+        "description": "primis in faucibus orci luctus et ultrices posuere cubilia curae",
+        "date_published": "2022-01-24",
+        "isbn": "716509444-X",
+        "price": "3656.21",
+        "genre": " NON-FICTION ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 51,
+    "fields": {
+        "title": "Bucktown",
+        "description": "sit amet erat nulla tempus vivamus in felis eu sapien cursus vestibulum proin eu mi nulla",
+        "date_published": "2021-11-14",
+        "isbn": "579528292-8",
+        "price": "51807.03",
+        "genre": " ROMANCE",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 52,
+    "fields": {
+        "title": "Testament of Dr. Mabuse, The (Das Testament des Dr. Mabuse)",
+        "description": "dapibus duis at velit eu est congue elementum in hac habitasse platea dictumst morbi",
+        "date_published": "2021-12-27",
+        "isbn": "139249570-9",
+        "price": "87202.07",
+        "genre": " FICTION ",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 53,
+    "fields": {
+        "title": "Fandry",
+        "description": "augue vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae donec",
+        "date_published": "2022-05-17",
+        "isbn": "963437747-5",
+        "price": "34717.55",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 54,
+    "fields": {
+        "title": "Front Line, The (Go-ji-jeon)",
+        "description": "ultrices mattis odio donec vitae nisi nam ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla",
+        "date_published": "2022-08-23",
+        "isbn": "965435586-8",
+        "price": "49733.66",
+        "genre": " TRAGEDY ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 55,
+    "fields": {
+        "title": "Norwegian Ninja",
+        "description": "vulputate nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque",
+        "date_published": "2022-04-12",
+        "isbn": "796077546-X",
+        "price": "76700.63",
+        "genre": " ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 56,
+    "fields": {
+        "title": "Hostage",
+        "description": "sagittis dui vel nisl duis ac nibh fusce lacus purus aliquet at",
+        "date_published": "2022-03-19",
+        "isbn": "121775915-8",
+        "price": "7260.76",
+        "genre": " ROMANCE",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 57,
+    "fields": {
+        "title": "Look of Silence, The",
+        "description": "semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante",
+        "date_published": "2022-02-10",
+        "isbn": "913387117-5",
+        "price": "40188.18",
+        "genre": " NON-FICTION ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 58,
+    "fields": {
+        "title": "You Kill Me",
+        "description": "sapien arcu sed augue aliquam erat volutpat in congue etiam justo etiam pretium iaculis justo in hac",
+        "date_published": "2022-06-23",
+        "isbn": "787254894-1",
+        "price": "42256.44",
+        "genre": " ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 59,
+    "fields": {
+        "title": "Funny Farm",
+        "description": "sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa",
+        "date_published": "2021-12-20",
+        "isbn": "412229455-X",
+        "price": "19598.35",
+        "genre": " NON-FICTION ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 60,
+    "fields": {
+        "title": "Sand Sharks",
+        "description": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu orci mauris lacinia",
+        "date_published": "2022-06-04",
+        "isbn": "709407907-9",
+        "price": "81742.17",
+        "genre": " ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 61,
+    "fields": {
+        "title": "Havana",
+        "description": "vitae quam suspendisse potenti nullam porttitor lacus at turpis donec",
+        "date_published": "2022-01-26",
+        "isbn": "599051971-0",
+        "price": "87634.48",
+        "genre": " ROMANCE",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 62,
+    "fields": {
+        "title": "Guy Thing, A",
+        "description": "est congue elementum in hac habitasse platea dictumst morbi vestibulum velit id pretium iaculis diam erat fermentum",
+        "date_published": "2021-11-03",
+        "isbn": "198943749-4",
+        "price": "65748.64",
+        "genre": " FICTION ",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 63,
+    "fields": {
+        "title": "American Violet",
+        "description": "platea dictumst aliquam augue quam sollicitudin vitae consectetuer eget rutrum at lorem integer tincidunt ante vel ipsum praesent",
+        "date_published": "2021-09-23",
+        "isbn": "216777586-5",
+        "price": "1438.09",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 64,
+    "fields": {
+        "title": "Witch's Night Out",
+        "description": "nonummy maecenas tincidunt lacus at velit vivamus vel nulla eget eros elementum pellentesque quisque porta volutpat erat quisque",
+        "date_published": "2022-05-13",
+        "isbn": "796061749-X",
+        "price": "49487.98",
+        "genre": " ROMANCE",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 65,
+    "fields": {
+        "title": "Way We Were, The",
+        "description": "nam dui proin leo odio porttitor id consequat in consequat ut nulla",
+        "date_published": "2022-02-19",
+        "isbn": "280515362-6",
+        "price": "57144.01",
+        "genre": " ROMANCE",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 66,
+    "fields": {
+        "title": "Kids in the Hall: Brain Candy",
+        "description": "cum sociis natoque penatibus et magnis dis parturient montes nascetur ridiculus mus vivamus vestibulum sagittis",
+        "date_published": "2021-11-12",
+        "isbn": "472180591-8",
+        "price": "72995.02",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 67,
+    "fields": {
+        "title": "Noises Off...",
+        "description": "justo aliquam quis turpis eget elit sodales scelerisque mauris sit amet eros",
+        "date_published": "2022-06-05",
+        "isbn": "465241499-4",
+        "price": "89886.89",
+        "genre": " NON-FICTION ",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 68,
+    "fields": {
+        "title": "Asylum",
+        "description": "eget tincidunt eget tempus vel pede morbi porttitor lorem id ligula suspendisse",
+        "date_published": "2022-07-04",
+        "isbn": "047977987-2",
+        "price": "94788.17",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 69,
+    "fields": {
+        "title": "Jefferson in Paris",
+        "description": "posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend donec ut dolor",
+        "date_published": "2022-04-17",
+        "isbn": "345911353-7",
+        "price": "7402.68",
+        "genre": " FICTION ",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 70,
+    "fields": {
+        "title": "12 O'Clock Boys",
+        "description": "gravida nisi at nibh in hac habitasse platea dictumst aliquam",
+        "date_published": "2022-01-13",
+        "isbn": "657188756-8",
+        "price": "78213.84",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 71,
+    "fields": {
+        "title": "The Man Without a Map",
+        "description": "massa tempor convallis nulla neque libero convallis eget eleifend luctus ultricies eu nibh quisque id justo",
+        "date_published": "2022-01-29",
+        "isbn": "309123055-4",
+        "price": "34599.32",
+        "genre": " FICTION ",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 72,
+    "fields": {
+        "title": "Images",
+        "description": "ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et",
+        "date_published": "2021-12-07",
+        "isbn": "811219332-0",
+        "price": "30750.04",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 73,
+    "fields": {
+        "title": "We're No Angels",
+        "description": "turpis sed ante vivamus tortor duis mattis egestas metus aenean fermentum donec ut mauris eget massa tempor",
+        "date_published": "2022-02-09",
+        "isbn": "276488355-2",
+        "price": "5049.19",
+        "genre": " FICTION ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 74,
+    "fields": {
+        "title": "Facing the Truth (At kende sandheden)",
+        "description": "est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in",
+        "date_published": "2022-08-05",
+        "isbn": "646804478-2",
+        "price": "37586.01",
+        "genre": " NON-FICTION ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 75,
+    "fields": {
+        "title": "Babysitting",
+        "description": "proin leo odio porttitor id consequat in consequat ut nulla sed accumsan felis ut at dolor quis",
+        "date_published": "2022-05-28",
+        "isbn": "624437492-4",
+        "price": "85612.95",
+        "genre": " ROMANCE",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 76,
+    "fields": {
+        "title": "It Takes Two",
+        "description": "mi nulla ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing",
+        "date_published": "2021-10-19",
+        "isbn": "474194936-2",
+        "price": "86172.26",
+        "genre": " ROMANCE",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 77,
+    "fields": {
+        "title": "Oh, God!",
+        "description": "id lobortis convallis tortor risus dapibus augue vel accumsan tellus nisi eu",
+        "date_published": "2022-02-28",
+        "isbn": "433458437-3",
+        "price": "47690.45",
+        "genre": "COMEDY ",
+        "publisher": 9
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 78,
+    "fields": {
+        "title": "Stricken (Er komt een vrouw bij de dokter)",
+        "description": "est risus auctor sed tristique in tempus sit amet sem fusce consequat nulla nisl nunc nisl duis bibendum felis",
+        "date_published": "2022-08-11",
+        "isbn": "742705840-2",
+        "price": "16149.53",
+        "genre": " ROMANCE",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 79,
+    "fields": {
+        "title": "Memento",
+        "description": "nam dui proin leo odio porttitor id consequat in consequat ut nulla sed accumsan",
+        "date_published": "2022-04-14",
+        "isbn": "973418568-3",
+        "price": "82463.02",
+        "genre": " ROMANCE",
+        "publisher": 7
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 80,
+    "fields": {
+        "title": "Central Park Five, The",
+        "description": "aliquet ultrices erat tortor sollicitudin mi sit amet lobortis sapien",
+        "date_published": "2022-09-07",
+        "isbn": "757160380-3",
+        "price": "32379.39",
+        "genre": " TRAGEDY ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 81,
+    "fields": {
+        "title": "Boots and Saddles",
+        "description": "potenti nullam porttitor lacus at turpis donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam",
+        "date_published": "2021-11-23",
+        "isbn": "474862160-5",
+        "price": "71579.05",
+        "genre": " ROMANCE",
+        "publisher": 10
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 82,
+    "fields": {
+        "title": "Until the End of the World (Bis ans Ende der Welt)",
+        "description": "in congue etiam justo etiam pretium iaculis justo in hac habitasse",
+        "date_published": "2022-02-21",
+        "isbn": "292097064-X",
+        "price": "24496.98",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 83,
+    "fields": {
+        "title": "Europa Report",
+        "description": "quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere",
+        "date_published": "2021-10-15",
+        "isbn": "175802325-2",
+        "price": "41841.93",
+        "genre": " TRAGEDY ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 84,
+    "fields": {
+        "title": "Cheetah",
+        "description": "ac enim in tempor turpis nec euismod scelerisque quam turpis adipiscing lorem vitae mattis nibh ligula nec sem duis aliquam",
+        "date_published": "2022-06-26",
+        "isbn": "129608500-7",
+        "price": "6555.46",
+        "genre": " FICTION ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 85,
+    "fields": {
+        "title": "Cleopatra",
+        "description": "vel nisl duis ac nibh fusce lacus purus aliquet at feugiat non pretium quis lectus suspendisse potenti in eleifend",
+        "date_published": "2022-02-08",
+        "isbn": "851170004-8",
+        "price": "37229.77",
+        "genre": " NON-FICTION ",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 86,
+    "fields": {
+        "title": "Ten Violent Women",
+        "description": "quis justo maecenas rhoncus aliquam lacus morbi quis tortor id nulla ultrices aliquet maecenas",
+        "date_published": "2022-04-11",
+        "isbn": "724302805-5",
+        "price": "93810.79",
+        "genre": " ROMANCE",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 87,
+    "fields": {
+        "title": "Gerry",
+        "description": "fusce posuere felis sed lacus morbi sem mauris laoreet ut rhoncus aliquet pulvinar sed nisl",
+        "date_published": "2022-03-17",
+        "isbn": "417597011-8",
+        "price": "75175.38",
+        "genre": " NON-FICTION ",
+        "publisher": 1
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 88,
+    "fields": {
+        "title": "Darwin's Nightmare",
+        "description": "iaculis congue vivamus metus arcu adipiscing molestie hendrerit at vulputate vitae nisl",
+        "date_published": "2022-07-16",
+        "isbn": "028699151-9",
+        "price": "97240.69",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 89,
+    "fields": {
+        "title": "Murder, He Says",
+        "description": "pede justo eu massa donec dapibus duis at velit eu est congue",
+        "date_published": "2022-04-26",
+        "isbn": "642429577-1",
+        "price": "59219.80",
+        "genre": " FICTION ",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 90,
+    "fields": {
+        "title": "Distinguished Gentleman, The",
+        "description": "ultrices libero non mattis pulvinar nulla pede ullamcorper augue a suscipit nulla elit ac nulla sed vel",
+        "date_published": "2021-11-02",
+        "isbn": "574503050-X",
+        "price": "87652.18",
+        "genre": " FICTION ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 91,
+    "fields": {
+        "title": "Daylight Robbery",
+        "description": "dapibus nulla suscipit ligula in lacus curabitur at ipsum ac tellus semper interdum mauris",
+        "date_published": "2022-01-20",
+        "isbn": "329489503-8",
+        "price": "90026.40",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 92,
+    "fields": {
+        "title": "Leprechaun: Origins",
+        "description": "mauris ullamcorper purus sit amet nulla quisque arcu libero rutrum ac lobortis vel dapibus at diam nam tristique tortor eu",
+        "date_published": "2022-08-18",
+        "isbn": "839930939-7",
+        "price": "62191.61",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 93,
+    "fields": {
+        "title": "Jeff, Who Lives at Home",
+        "description": "tincidunt nulla mollis molestie lorem quisque ut erat curabitur gravida nisi at",
+        "date_published": "2021-09-18",
+        "isbn": "910722122-3",
+        "price": "70780.24",
+        "genre": " FICTION ",
+        "publisher": 3
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 94,
+    "fields": {
+        "title": "Grease 2",
+        "description": "donec posuere metus vitae ipsum aliquam non mauris morbi non lectus aliquam sit amet diam in magna bibendum",
+        "date_published": "2022-06-24",
+        "isbn": "158579573-9",
+        "price": "51173.22",
+        "genre": "COMEDY ",
+        "publisher": 8
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 95,
+    "fields": {
+        "title": "Moonfleet",
+        "description": "ac diam cras pellentesque volutpat dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus",
+        "date_published": "2022-07-29",
+        "isbn": "566261202-1",
+        "price": "76308.62",
+        "genre": " TRAGEDY ",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 96,
+    "fields": {
+        "title": "Libeled Lady",
+        "description": "tristique in tempus sit amet sem fusce consequat nulla nisl nunc",
+        "date_published": "2021-12-22",
+        "isbn": "196168777-1",
+        "price": "90545.85",
+        "genre": " NON-FICTION ",
+        "publisher": 6
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 97,
+    "fields": {
+        "title": "Next Stop, Greenwich Village",
+        "description": "pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus urna ut tellus nulla ut erat",
+        "date_published": "2022-06-09",
+        "isbn": "083487160-2",
+        "price": "99206.75",
+        "genre": " TRAGEDY ",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 98,
+    "fields": {
+        "title": "The Girl from Nagasaki",
+        "description": "phasellus id sapien in sapien iaculis congue vivamus metus arcu adipiscing molestie hendrerit at",
+        "date_published": "2021-11-04",
+        "isbn": "523288368-2",
+        "price": "50881.68",
+        "genre": "COMEDY ",
+        "publisher": 4
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 99,
+    "fields": {
+        "title": "Embalmer, The (Imbalsamatore, L')",
+        "description": "sit amet diam in magna bibendum imperdiet nullam orci pede venenatis non sodales sed tincidunt eu felis fusce",
+        "date_published": "2022-06-05",
+        "isbn": "808425421-9",
+        "price": "10448.74",
+        "genre": " ROMANCE",
+        "publisher": 5
+    }
+},
+{
+    "model": "new_app.book",
+    "pk": 100,
+    "fields": {
+        "title": "Ivul",
+        "description": "orci luctus et ultrices posuere cubilia curae duis faucibus accumsan odio curabitur convallis duis consequat dui nec nisi volutpat eleifend",
+        "date_published": "2021-11-11",
+        "isbn": "735087525-8",
+        "price": "63942.29",
+        "genre": " ROMANCE",
+        "publisher": 2
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 1,
+    "fields": {
+        "title": "Beaudry",
+        "email": "rbeaudry0@mapquest.com",
+        "url": "https://kickstarter.com/tristique.js"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 2,
+    "fields": {
+        "title": "Frill",
+        "email": "efrill1@skyrock.com",
+        "url": "http://yolasite.com/urna/pretium/nisl/ut.aspx"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 3,
+    "fields": {
+        "title": "Oxley",
+        "email": "foxley2@storify.com",
+        "url": "https://blog.com/libero/rutrum.aspx"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 4,
+    "fields": {
+        "title": "Wickham",
+        "email": "rwickham3@disqus.com",
+        "url": "http://about.com/porttitor/lorem/id/ligula.js"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 5,
+    "fields": {
+        "title": "Elcum",
+        "email": "eelcum4@unc.edu",
+        "url": "https://google.ca/turpis/elementum/ligula/vehicula/consequat.html"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 6,
+    "fields": {
+        "title": "Stearne",
+        "email": "jstearne5@booking.com",
+        "url": "https://wikimedia.org/eu/orci/mauris/lacinia.json"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 7,
+    "fields": {
+        "title": "Rawcliffe",
+        "email": "frawcliffe6@cafepress.com",
+        "url": "http://tinypic.com/et/ultrices.js"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 8,
+    "fields": {
+        "title": "Scarffe",
+        "email": "gscarffe7@phpbb.com",
+        "url": "https://ning.com/vulputate/justo/in.json"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 9,
+    "fields": {
+        "title": "Niblock",
+        "email": "lniblock8@skype.com",
+        "url": "https://fotki.com/commodo/vulputate/justo/in/blandit/ultrices.html"
+    }
+},
+{
+    "model": "new_app.publisher",
+    "pk": 10,
+    "fields": {
+        "title": "Ioannou",
+        "email": "lioannou9@army.mil",
+        "url": "http://harvard.edu/pede/libero/quis/orci/nullam/molestie.xml"
+    }
+}
+]

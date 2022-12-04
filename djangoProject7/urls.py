@@ -18,7 +18,9 @@ from django.urls import path, include
 from  django.conf import settings
 
 urlpatterns = [
-    path(settings.ADMIN_URL, admin.site.urls),
-    path('new_app/', include('new_app.urls')),
+    # path(settings.ADMIN_URL, admin.site.urls),
+    path('admin/', admin.site.urls),
+    path('api/v1/auth/', include('djoser.urls')),
+    path('api/v1/', include('new_app.urls')),
     path('__debug__/', include('debug_toolbar.urls')),
 ]

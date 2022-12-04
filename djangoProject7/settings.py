@@ -14,6 +14,8 @@ from pathlib import Path
 import environ
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
+from djangoProject7.apps import BookAdminConfig
+
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 env = environ.Env()
@@ -35,13 +37,18 @@ ALLOWED_HOSTS = []
 
 THIRD_PARTY_APPS = [
     'debug_toolbar',
+    'rest_framework',
+    'djoser',
+    'django_filters',
 ]
 LOCAL_APPS = [
     'new_app',
+
 ]
 
 DJANGO_APPS = [
-    'django.contrib.admin',
+    # 'django.contrib.admin',
+    'djangoProject7.apps.BookAdminConfig',
     'django.contrib.auth',
     'django.contrib.contenttypes',
     'django.contrib.sessions',
@@ -144,3 +151,10 @@ INTERNAL_IPS = [
 ]
 
 ADMIN_URL = 'admin/'
+
+REST_FRAMEWORK = {
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 10
+}
+
+AUTH_USER_MODEL = 'new_app.User'
